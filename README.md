@@ -15,12 +15,12 @@
 ---
 
 ## 💼 Experiencia Profesional
-### Founder & Senior Software Engineer | AtilaDev
+### Founder & Software Engineer | AtilaDev
 *Marzo 2017 – Presente*
 - Fundador de una startup que ofrece soluciones web y móviles personalizadas.
 - Desarrollo de herramientas populares como **Expo Icons** y **Expo Google Fonts Directory**.
 
-### Senior Software Engineer | Intive
+### Software Engineer | Intive
 *Enero 2022 – Junio 2024*
 - Lideré el desarrollo de soluciones bancarias móviles utilizando **React Native** y **TypeScript**.
 
