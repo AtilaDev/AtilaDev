@@ -8,7 +8,7 @@
 
 ## 🛠️ Herramientas y Tecnologías
 - **Lenguajes**: JavaScript, TypeScript
-- **Frameworks**: React, React Native/Expo, Next.js, Node.js, express, NestJS
+- **Frameworks**: React, React Native/Expo, Next.js, Node.js, Express, NestJS
 - **Bases de Datos**: PostgreSQL, MongoDB, Firebase, Prisma
 - **Estilos**: TailwindCSS, Chakra UI, Material UI
 
@@ -26,14 +26,28 @@
 
 ### Mobile Application Developer | Pablo Heinig y Asociados
 *2017 – 2024*
-- Desarrollo de 11 aplicaciones móviles para iOS y Android.
+- Lideré el desarrollo de 11 aplicaciones móviles para iOS y Android.
 
 ---
 
 ## 🌍 Contribuciones Open Source
-- **Expo Icons**: Utilidad para el framework Expo.
-- **Expo Google Fonts Directory**: Herramienta para buscar fuentes de Google.
+- **Expo Icons**: Utilidad para buscar íconos en el framework Expo.
+- **Expo Google Fonts Directory**: Herramienta para buscar fuentes de Google y usar con el framework Expo.
 - **@expo-google-fonts**: Más de 1,052 fuentes disponibles para aplicaciones Expo.
+- **useCalendar Hook**: Un hook fácil de usar con la biblioteca `expo-calendar`, diseñado para simplificar la gestión de eventos y permisos de calendario en aplicaciones Expo.
+
+---
+
+## 📂 Proyectos Destacados de AtilaDev
+1. **[my-expo-agenda](https://github.com/AtilaDev-team/my-expo-agenda)**  
+   - **Descripción**: Una pequeña aplicación desarrollada con Expo que muestra cómo utilizar el hook `useCalendar`. Este proyecto es un excelente recurso para aprender sobre la integración de calendarios en aplicaciones móviles.
+   - **Lenguaje**: TypeScript.
+   - **Estadísticas**: 3 forks, 9 estrellas.
+
+2. **[useCalendar](https://github.com/AtilaDev-team/useCalendar)**  
+   - **Descripción**: Un hook fácil de usar con la biblioteca `expo-calendar`, diseñado para simplificar la gestión de eventos y permisos de calendario en aplicaciones Expo.
+   - **Lenguaje**: TypeScript.
+   - **Estadísticas**: 0 forks, 16 estrellas.
 
 ---
 
