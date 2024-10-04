@@ -8,8 +8,8 @@
 
 ## 🛠️ Herramientas y Tecnologías
 - **Lenguajes**: JavaScript, TypeScript
-- **Frameworks**: React, React Native/Expo, Next.js, Node.js, Express, NestJS
-- **Bases de Datos**: PostgreSQL, MongoDB, Firebase, Prisma
+- **Frameworks/Librerías**: React, React Native/Expo, NextJS, NodeJS, Express, NestJS, React Query, React Hook Form, React Testing Library, Zustand, Prisma, Zod
+- **Bases de Datos**: PostgreSQL, MongoDB, Firebase
 - **Estilos**: TailwindCSS, Chakra UI, Material UI
 
 ---
@@ -22,7 +22,8 @@
 
 ### Software Engineer | Intive
 *Enero 2022 – Junio 2024*
-- Lideré el desarrollo de soluciones bancarias móviles utilizando **React Native** y **TypeScript**.
+- Desarrollo de soluciones bancarias móviles utilizando **React Native**, **NestJS** y **TypeScript**.
+- Desarrollo de soluciones web utilizando **ReactJS**, **NextJS** y **Microfrontends**, mejorando la interacción del usuario y la integración de APIs con **Axios**.
 
 ### Mobile Application Developer | Pablo Heinig y Asociados
 *2017 – 2024*
