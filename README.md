@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 📧 [atiladevelop@gmail.com](mailto:atiladevelop@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/leandro-f-7a06a8171) | [GitHub](https://github.com/AtilaDev) | [Twitter](https://twitter.com/FavreLeandro)
+🔗 [LinkedIn](https://linkedin.com/in/leandro-f-7a06a8171) | [Twitter](https://twitter.com/FavreLeandro)
 
 ---
 
