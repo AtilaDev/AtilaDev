@@ -22,7 +22,7 @@
 
 ---
 
-## 📂 Algunos Proyectos de AtilaDev
+## 📂 Algunos de mis proyectos
 1. **[my-expo-agenda](https://github.com/AtilaDev-team/my-expo-agenda)**  
    - **Descripción**: Una pequeña aplicación desarrollada con Expo que muestra cómo utilizar el hook `useCalendar`. Este proyecto es un excelente recurso para aprender sobre la integración de calendarios en aplicaciones móviles.
    - **Lenguaje**: TypeScript, React Native/Expo.
@@ -34,7 +34,7 @@
    - **Estadísticas**: 0 forks, 16 estrellas.
 
 3. **[Directory](https://directory-by-atiladev-com.netlify.app/)**  
-   - **Descripción**: Apicación web donde puedes navegar y buscar en la lista completa de fuentes, y te dará las declaraciones de importación adecuadas.
+   - **Descripción**: Aplicación web donde puedes navegar y buscar en la lista completa de fuentes, y te dará las declaraciones de importación adecuadas.
    - **Lenguaje**: NextJs, TypeScript, Material UI.
    - **Estadísticas**: 0 forks, 3 estrellas.
 
