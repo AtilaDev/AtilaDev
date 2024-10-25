@@ -8,7 +8,7 @@
 
 ## 🛠️ Herramientas y Tecnologías
 - **Lenguajes**: JavaScript, TypeScript
-- **Frameworks/Librerías**: React, React Native/Expo, NextJS, NodeJS, Express, NestJS, React Query, React Hook Form, React Testing Library, Jest, Zustand, Prisma, TypeORM, Zod
+- **Frameworks/Librerías**: React, React Native/Expo, NextJS, NodeJS, Express, NestJS, TanStack Query, React Hook Form, React Testing Library, Jest, Zustand, Prisma, TypeORM, Zod
 - **Bases de Datos**: PostgreSQL, MongoDB, Firebase
 - **Estilos**: TailwindCSS, Chakra UI, Material UI
 
