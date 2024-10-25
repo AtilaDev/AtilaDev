@@ -33,7 +33,7 @@
    - **Lenguaje**: TypeScript, React Native/Expo.
    - **Estadísticas**: 0 forks, 16 estrellas.
 
-3. **[Directory]([https://github.com/AtilaDev-team/useCalendar](https://directory-by-atiladev-com.netlify.app/))**  
+3. **[Directory](https://directory-by-atiladev-com.netlify.app/)**  
    - **Descripción**: Apicación web donde puedes navegar y buscar en la lista completa de fuentes, y te dará las declaraciones de importación adecuadas.
    - **Lenguaje**: NextJs, TypeScript, Material UI.
    - **Estadísticas**: 0 forks, 3 estrellas.
